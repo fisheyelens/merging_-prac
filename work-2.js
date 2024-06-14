@@ -1,0 +1,1 @@
+console.log("This is original work-2.js");
